@@ -5,7 +5,7 @@
 
 page | links
 ---- | -----
-1 example | [GitHub](http://github.com)
+1 class02| [class02](https://abu-al3ees.github.io/reading-notes201/class02)
 2 | 
 3 | 
 4 | 
