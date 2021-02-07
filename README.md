@@ -5,7 +5,7 @@
 
 page | links
 ---- | -----
-1 | 
+1 | [GitHub](http://github.com)
 2 | 
 3 | 
 4 | 
