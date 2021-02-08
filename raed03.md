@@ -121,6 +121,32 @@ cause the shadow to expand in
 all directions, and a negative
 value will make it contract.
 
+A Boolean variable can only have
+a va lue of true or fa 1 se, but this
+data type is very helpful.
+In the example on the right, the
+values true or fa 1 se are used
+in the cl ass attributes of HTML
+elements. These values trigger
+different CSS class rules: true
+shows a check, fa 1 se shows a
+cross.
+The logical AND is used to see
+if the user's score is greater
+than or equal to the pass mark
+in both of the rounds of the test.
+The result is stored in a variable
+called passBoth.
+Here you can see that an
+if ... e 1 se statement al lows you
+to provide two sets of code:
+1. one set if the condition
+evaluates to true
+2. another set if the condition is
+false
+A for loop is often used to loop
+through the items in an array.
+
 
 
 
