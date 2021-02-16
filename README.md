@@ -11,7 +11,7 @@ page | links
 4 read05| [read05](https://abu-al3ees.github.io/reading-notes201/read05)
 5 read06| [read06](https://abu-al3ees.github.io/reading-notes201/read06)
 6 read07| [read07](https://abu-al3ees.github.io/reading-notes201/read07)
-7 | 
+7  read08| [read08](https://abu-al3ees.github.io/reading-notes201/read08)
 8 | 
 9 | 
 10 | 
