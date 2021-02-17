@@ -13,7 +13,7 @@ page | links
 6 read07| [read07](https://abu-al3ees.github.io/reading-notes201/read07)
 7  read08| [read08](https://abu-al3ees.github.io/reading-notes201/read08)
 8  read09| [read09](https://abu-al3ees.github.io/reading-notes201/read09)
-9 | 
+9  read09| [read09](https://abu-al3ees.github.io/reading-notes201/read10)
 10 | 
 11 | 
 12 | 
